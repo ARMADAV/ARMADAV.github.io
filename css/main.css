@@ -5,6 +5,10 @@ body{
     font-family: Verdana;
     display: block;
     margin: 0px;
+    max-width: 100%;
+    overflow-x:  hidden;
+    
+    display: block;
 }
 header{
     margin: 0;

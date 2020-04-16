@@ -1,0 +1,31 @@
+article{
+    top:30px;
+    width: 80%;
+    float: left;
+    display: block;
+}
+
+article .rowart{
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+article .colart{
+    margin: 10px 0 0 0;
+    width: 24%;
+    float: left;
+    height: 300px;
+    font-size: 1.25vw;
+    margin-left: 1%;
+    display: block;
+    text-align: center;
+}
+article .colart img{
+    margin:auto;
+    height: 10%;
+}
+article p{
+    width: 80%;
+    margin: auto;
+}
+
