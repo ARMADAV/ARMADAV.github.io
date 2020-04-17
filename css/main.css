@@ -49,10 +49,6 @@ nav {
   background-color: #bbbbbb;
   
 }
-article{    
-  margin: 0px 10px 10px 10px;
-  padding: 0px 10px 10px 10px;
-}
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column.side, .column.middle {
@@ -62,13 +58,49 @@ article{
 .row:after {
   content: "";
   display: table;
-  clear: both;
 }
 
 footer{
     margin-top: 50px;
-    background-color: #222222;
+    background:  linear-gradient(black,#222222,#222222,#222222,#222222,#222222,  black);
     color: #47c9af;
     padding: 10px;
+}
+footer p{
     text-align: center;
+}
+footer a{
+    color: white;;
+    text-decoration: none;
+    width: 20%;
+    float: left;
+    margin-left: 7%;margin-right: 6%
+}
+footer a:hover{
+    text-decoration: none;
+    color: crimson;
+}
+footer img{
+    width: 40%;
+    float: left;
+}
+footer .footrow{
+    width: 100%;
+    clear: both;
+}
+.footcol{
+    width: 20%;
+    float: left;
+}
+footer .footcol a{
+    width: fit-content;
+}
+footer > div > a > h4{
+    font-family: sans-serif;
+   margin-top: 15%;
+   left: 2%;position: relative;
+   font-size: 20px;
+}
+footer b{
+    color: gold;
 }

@@ -5,12 +5,12 @@ article{
     display: block;
 }
 
-article .rowart{
+ .rowart{
     display: block;
     margin: auto;
     width: 100%;
 }
-article .colart{
+ .colart{
     margin: 10px 0 0 0;
     width: 24%;
     float: left;
@@ -28,4 +28,6 @@ article p{
     width: 80%;
     margin: auto;
 }
-
+article a{
+    color: teal;
+}
