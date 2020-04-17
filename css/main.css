@@ -94,6 +94,7 @@ footer .footrow{
 }
 footer .footcol a{
     width: fit-content;
+    width: 100%
 }
 footer > div > a > h4{
     font-family: sans-serif;
