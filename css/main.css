@@ -31,7 +31,7 @@ nav {
 /* Left and right column */
 .column.side {
   margin-top: 3%;
-  width: 20%;
+  width: 28%;
   border-radius: 2px;
 }
 .column.side img{
@@ -47,7 +47,7 @@ nav {
 }
 /* Middle column */
 .column.middle {
-  width: 77%;
+  width: 69%;
   margin-left: 3%;
   display: block;
   background-color: rgba(244, 244, 244, 0.2);
