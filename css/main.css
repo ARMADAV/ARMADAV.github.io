@@ -13,6 +13,9 @@ body{
 header img{
     width: 100%;
 }
+header{
+    background-color: white;
+}
 header #indexhead{
     width: 10%;
     margin: auto;
