@@ -1,5 +1,6 @@
 article .artcont{
     padding-left: 2%;
+    font-size: 18pt;
 }
 article .artcont p{
     margin-left: 0px;
@@ -9,9 +10,7 @@ article figure{
     position: relative;
     width: 100%;
     left: 0;
-    margin-left: 2%;
-    margin-top: 0;
-    margin-bottom: 0;
+    margin: 0;
 }
 article img{
     position: relative;
