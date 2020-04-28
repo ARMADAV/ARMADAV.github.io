@@ -38,7 +38,7 @@ nav {
     width: 100%;
 }
 .custom-add a{
-    color: red;
+    color: crimson;
 }
 .custom-add td{
     width: 50%;
@@ -92,7 +92,7 @@ footer a{
 }
 footer a:hover{
     text-decoration: none;
-    color: red;
+    color: crimson;
 }
 footer img{
     width: 40%;
