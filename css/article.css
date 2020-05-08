@@ -23,3 +23,6 @@ article p a, article ul li a{
 article p a:hover{
     color: cyan;
 }
+article h2{
+    width: 80%;
+}
